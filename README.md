@@ -1,7 +1,4 @@
-<p align="center">
-    <img src="/img/mountain.png" width="80" />
-    <h2>Mountain for Termux</h2>
-</p>
+<h2>Mountain for Termux</h2>
 
 <p>A dark, neutral color scheme</p>
 
